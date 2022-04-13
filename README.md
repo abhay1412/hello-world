@@ -7,3 +7,5 @@ This repository is built step by step in the tutorial.
 This line was eddited on github.
 
 This line was added to test pull command in git bash.
+
+This line was added on new branch called update-readme and in local editor.
